@@ -1,0 +1,106 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Poppins', sans-serif;
+}
+
+h1{
+	text-align: center;
+	margin-top: 50px;
+}
+
+section{
+	margin-top: 30px;
+	margin-left: 30%;
+	margin-right: 30%;
+	text-align: center;
+}
+#buscar{
+	border: none;
+	width: 240px;
+	height: 30px;
+	margin-bottom: 25px;
+	padding-left: 10px;
+	border-radius: 15px;
+	background-color: #EFEFEF;
+	box-shadow: 0px 0px 20px 0px grey;
+
+}
+button{
+	width: 250px;
+	height: 30px;
+	text-align: left;
+	margin-bottom: 25px;
+	border-radius: 15px;
+	padding-left: 10px;
+	border-style: none;
+	box-shadow: 0px 0px 20px 0px grey;
+	cursor: pointer;
+}
+
+.botonadd{
+	background-color: #81ecec;
+}
+
+.botonver{
+	background-color: #fdcb6e;
+}
+
+.editarcon{
+	background-color: #a29bfe;
+}
+
+.back{
+	background-color: #eb4d4b;
+	color: white;
+	font-size: 20px;
+	width: 90px;
+	text-align: center;
+	padding-left: 0px;
+	float: left;
+}
+
+.guardar{
+	background-color: #4cd137;
+	color: white;
+	font-size: 20px;
+	width: 90px;
+	text-align: center;
+	padding-left: 0px;
+	float: right;
+}
+
+/*-----------Pagina agregar-------------*/
+#nomA{
+	border: none;
+	width: 240px;
+	height: 30px;
+	margin-bottom: 25px;
+	padding-left: 10px;
+	border-radius: 15px;
+	background-color: #EFEFEF;
+	box-shadow: 0px 0px 20px 0px grey;
+}
+
+#numA{
+	border: none;
+	width: 240px;
+	height: 30px;
+	margin-bottom: 25px;
+	padding-left: 10px;
+	border-radius: 15px;
+	background-color: #EFEFEF;
+	box-shadow: 0px 0px 20px 0px grey;
+}
+
+#corA{
+	border: none;
+	width: 240px;
+	height: 30px;
+	margin-bottom: 25px;
+	padding-left: 10px;
+	border-radius: 15px;
+	background-color: #EFEFEF;
+	box-shadow: 0px 0px 20px 0px grey;
+}
+
